@@ -21,13 +21,16 @@
 ## 📌 주요 기능
 
 **시작**
+
 ![enter image description here](https://media.discordapp.net/attachments/916248167941566534/1242741912251662406/image.png?ex=664ef118&is=664d9f98&hm=611ca85e7ebcd1aca261029a5fe46962060a2b53844727a210d41efdb82b2226&=&format=webp&quality=lossless)
 
 
 **캐릭터 선택**
+
 ![enter image description here](https://cdn.discordapp.com/attachments/916248167941566534/1242742450699898901/image.png?ex=664ef199&is=664da019&hm=643f17bf25cc975195a541c5ffd2edda0be082dd7f6f296828f16a13c2a33703&)
 
 **스테이지**
+
 ![enter image description here](https://media.discordapp.net/attachments/916248167941566534/1242742737761992734/image.png?ex=664ef1dd&is=664da05d&hm=aeda317df88fb71b1a739da08c8f144c7ca96049a3bdf9b36c84354b509ba936&=&format=webp&quality=lossless)
 
 
